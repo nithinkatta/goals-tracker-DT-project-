@@ -1,6 +1,6 @@
 # Goals tracking app
 
-A tiny implementation of a goal tracker I wrote for the blog post: [Building a Node.js application on Android](https://medium.freecodecamp.com/building-a-node-js-application-on-android-part-2-express-and-nedb-ced04caea7bb#.mjz98zmz1)
+A tiny implementation of a goal tracker I wrote for the blog post: [Building a Node.js application on Android](https://medium.freecodecamp.com/building-a-node-js-application-on-android-part-2-express-and-nedb-ced04caea7bb)
 
 ## Installation
 
